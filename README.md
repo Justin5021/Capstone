@@ -1,7 +1,9 @@
 # Capstone
 
-Justin Chin Wei Kit
-13595766
+Name: Justin Chin Wei Kit
+
+Student ID: 13595766
+
 Supervisor: David Milne
 
 ## Running the Application Front-End
